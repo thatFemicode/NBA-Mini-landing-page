@@ -12,8 +12,9 @@ This project was bootstrapped with [Create React App](https://git`hub.com/facebo
 
 ## Responsive View
 
-In the project directory, you can run:
 <img src="img\img4.png" alt="Design preview for the REST Countries API with color theme switcher coding challenge">
+
+In the project directory, you can run:
 
 ### `npm start`
 
